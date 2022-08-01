@@ -1,6 +1,6 @@
 # Movie-App-Server
 
-# First connect MongoDB and secret key on MongoDB
+# First connect MongoDB and secret key on .env file.
 
 ## All Operations:
 
